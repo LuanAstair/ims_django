@@ -1,1 +1,1 @@
-web: gunicorn IMS_DJANGO.asgi --log-file -
+web: gunicorn bltnsystem.wgi --log-file -
